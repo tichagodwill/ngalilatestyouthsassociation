@@ -1,0 +1,11 @@
+{
+    "html.format.contentUnformatted": "",
+    "html.format.extraLiners": "",
+    "emmet.triggerExpansionOnTab": true,
+"emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "vue-html": "html",
+    "razor": "html",
+    "plaintext": "jade"
+
+}}
