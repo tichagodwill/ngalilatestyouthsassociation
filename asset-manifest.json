@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nlya/static/css/main.b1e304bb.css",
+    "main.js": "/nlya/static/js/main.6421d29f.js",
+    "static/js/937.663ba5d4.chunk.js": "/nlya/static/js/937.663ba5d4.chunk.js",
+    "index.html": "/nlya/index.html",
+    "main.b1e304bb.css.map": "/nlya/static/css/main.b1e304bb.css.map",
+    "main.6421d29f.js.map": "/nlya/static/js/main.6421d29f.js.map",
+    "937.663ba5d4.chunk.js.map": "/nlya/static/js/937.663ba5d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1e304bb.css",
+    "static/js/main.6421d29f.js"
+  ]
+}
