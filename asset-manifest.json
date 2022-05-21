@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/nlya/static/css/main.b1e304bb.css",
-    "main.js": "/nlya/static/js/main.6421d29f.js",
-    "static/js/937.663ba5d4.chunk.js": "/nlya/static/js/937.663ba5d4.chunk.js",
-    "index.html": "/nlya/index.html",
-    "main.b1e304bb.css.map": "/nlya/static/css/main.b1e304bb.css.map",
-    "main.6421d29f.js.map": "/nlya/static/js/main.6421d29f.js.map",
-    "937.663ba5d4.chunk.js.map": "/nlya/static/js/937.663ba5d4.chunk.js.map"
+    "main.css": "/ngalilatestyouthsassociation/static/css/main.b1e304bb.css",
+    "main.js": "/ngalilatestyouthsassociation/static/js/main.5cffca5c.js",
+    "static/js/937.663ba5d4.chunk.js": "/ngalilatestyouthsassociation/static/js/937.663ba5d4.chunk.js",
+    "index.html": "/ngalilatestyouthsassociation/index.html",
+    "main.b1e304bb.css.map": "/ngalilatestyouthsassociation/static/css/main.b1e304bb.css.map",
+    "main.5cffca5c.js.map": "/ngalilatestyouthsassociation/static/js/main.5cffca5c.js.map",
+    "937.663ba5d4.chunk.js.map": "/ngalilatestyouthsassociation/static/js/937.663ba5d4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b1e304bb.css",
-    "static/js/main.6421d29f.js"
+    "static/js/main.5cffca5c.js"
   ]
 }
