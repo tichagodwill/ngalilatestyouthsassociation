@@ -60,6 +60,18 @@ const StyledFooter = styled.div`
   .footer .footer-content .about h1 span {
     color: #05f7ff;
   }
+  .footer .footer-content .about h1 {
+    @media (max-width: 678px) {
+      text-align: center;
+      font-size: 25px;
+    }
+  }
+  .footer .footer-content .about .contact {
+    @media (max-width: 678px) {
+      text-align: center;
+      font-size: 20px;
+    }
+  }
   .footer .footer-content .about .contact span {
     display: block;
     font-size: 1.1em;
@@ -82,6 +94,9 @@ const StyledFooter = styled.div`
     margin-left: 5px;
     @media (max-width: 678px) {
       margin-left: 30px;
+      align-items: center;
+      margin: 2px;
+      align-items: center;
     }
   }
 
@@ -89,6 +104,11 @@ const StyledFooter = styled.div`
     color: white;
     border: 1px solid white;
     transition: all 0.4s;
+    @media (max-width: 678px) {
+      color: white;
+      border: 1px solid white;
+      transition: all 0.4s;
+    }
   }
 
   .footer .footer-content .links ul a {
